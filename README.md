@@ -4,7 +4,7 @@
 
 ## Gameplay Preview
 
-[Watch the Gameplay Video](https://github.com/Rasta669/B_game/blob/main/gifs/2dAssignmentRecording.mp4)
+[Watch the Gameplay Video](https://github.com/Rasta669/B_game/blob/main/gifs/2dAssignmentRecording-ezgif.com-video-to-gif-converter.gif)
 
 ## Game Overview
 
