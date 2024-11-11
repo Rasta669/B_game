@@ -3,8 +3,7 @@
 **Bujo Game** is a 2D endless runner created in Unity, featuring Bujo, a daring character on an endless adventure filled with enemies and obstacles. In this fast-paced game, players must help Bujo jump over enemies or stomp on them to clear the path. A mistimed jump can result in a game over, so quick reflexes are essential!
 
 ## Gameplay Preview
-
-[Watch the Gameplay Video](https://github.com/Rasta669/B_game/blob/main/gifs/2dAssignmentRecording-ezgif.com-video-to-gif-converter.gif)
+![Bujo Game Gameplay](https://github.com/Rasta669/B_game/blob/main/gifs/2dAssignmentRecording-ezgif.com-video-to-gif-converter.gif)
 
 ## Game Overview
 
